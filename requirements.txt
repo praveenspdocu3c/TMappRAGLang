@@ -1,0 +1,11 @@
+streamlit 
+openai
+pandas 
+pymupdf 
+python-docx
+langchain 
+langchain_community 
+langchain_chroma
+langchain-text-splitters
+langchain-openai
+sentence-transformers 
